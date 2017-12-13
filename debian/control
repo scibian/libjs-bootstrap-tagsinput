@@ -1,10 +1,12 @@
 Source: libjs-bootstrap-tagsinput
 Section: web
 Priority: extra
-Maintainer: Rémi Palancher <remi-externe.palancher@edf.fr>
+Maintainer: Scibian Project <packaging@scibian.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
 Homepage: http://twitter.github.io/typeahead.js/
+Vcs-Git: https://github.com/scibian/libjs-bootstrap-tagsinput.git
+Vcs-Browser: https://github.com/scibian/libjs-bootstrap-tagsinput
 
 Package: libjs-bootstrap-tagsinput
 Architecture: all
