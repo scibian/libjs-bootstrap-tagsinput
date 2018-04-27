@@ -1,3 +1,9 @@
+libjs-bootstrap-tagsinput (0.8.0-1sci9u1) scibian9; urgency=medium
+
+  * Rebuild for Scibian9.
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Fri, 27 Apr 2018 10:49:37 +0200
+
 libjs-bootstrap-tagsinput (0.8.0-1sci8u1) scibian8; urgency=medium
 
   * Scibian8 rebuild.
